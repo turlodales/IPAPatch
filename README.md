@@ -14,7 +14,7 @@ IPAPatch provide a simple way to patch iOS Apps, without needing to jailbreak.
   
   > *Presented an custom alert in Youtube app*
   >
-  > <a href="https://camo.githubusercontent.com/c66c0d23a3ddeb40dc89624a90dd306546bcaa12/687474703a2f2f7778342e73696e61696d672e636e2f6c617267652f62656265646262356c7931666472653235613872316a323065623039773077672e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/c66c0d23a3ddeb40dc89624a90dd306546bcaa12/687474703a2f2f7778342e73696e61696d672e636e2f6c617267652f62656265646262356c7931666472653235613872316a323065623039773077672e6a7067" alt="Youtube Hacked" data-canonical-src="http://wx4.sinaimg.cn/large/bebedbb5ly1fdre25a8r1j20eb09w0wg.jpg" style="max-width:100%;" width="360px"></a>
+  > <a href="https://github.com/user-attachments/assets/f0d5ec82-857e-415d-b3c8-688b78cfdca4" target="_blank"><img src="https://github.com/user-attachments/assets/f0d5ec82-857e-415d-b3c8-688b78cfdca4" alt="Youtube Hacked" style="max-width:100%;" width="360px"></a>
   
 - **Step-by-step Debugging with lldb**
 
@@ -26,8 +26,8 @@ IPAPatch provide a simple way to patch iOS Apps, without needing to jailbreak.
    <br/>
    
     > *Debugging Youtube with Xcode*
-    > 
-    > <a href="https://camo.githubusercontent.com/4b1650718581ccd3d2824d55342396d5fc1308fd/687474703a2f2f7778342e73696e61696d672e636e2f6c617267652f62656265646262356c7931666472656e776935646d6a3230657030616e77676b2e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/4b1650718581ccd3d2824d55342396d5fc1308fd/687474703a2f2f7778342e73696e61696d672e636e2f6c617267652f62656265646262356c7931666472656e776935646d6a3230657030616e77676b2e6a7067" alt="Youtube Debugging" data-canonical-src="http://wx4.sinaimg.cn/large/bebedbb5ly1fdrenwi5dmj20ep0anwgk.jpg" style="max-width:100%;" width="360px"></a>
+    >
+    > <a href="https://github.com/user-attachments/assets/7927b4f2-097a-4c10-b222-c5b1edac3032" target="_blank"><img src="https://github.com/user-attachments/assets/7927b4f2-097a-4c10-b222-c5b1edac3032" alt="Youtube Debugging" style="max-width:100%;" width="360px"></a>
     
 
 - **Link external frameworks**
@@ -36,15 +36,15 @@ IPAPatch provide a simple way to patch iOS Apps, without needing to jailbreak.
   
   > *Inspect Youtube by linking RevealServer.framework*
   >
-  > <a href="https://camo.githubusercontent.com/ee35f8ef1c935174bb84b66f7e8888b0e0bee95f/687474703a2f2f7778322e73696e61696d672e636e2f6c617267652f62656265646262356c7931666472656271336667756a32306f703064627138702e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/ee35f8ef1c935174bb84b66f7e8888b0e0bee95f/687474703a2f2f7778322e73696e61696d672e636e2f6c617267652f62656265646262356c7931666472656271336667756a32306f703064627138702e6a7067" alt="Youtube Integrated Reveal" data-canonical-src="http://wx2.sinaimg.cn/large/bebedbb5ly1fdrebq3fguj20op0dbq8p.jpg" style="max-width:100%;" width="540px"></a>
+  > <a href="https://github.com/user-attachments/assets/4feb3613-a110-4208-b2b3-ba173bda81fb" target="_blank"><img src="https://github.com/user-attachments/assets/4feb3613-a110-4208-b2b3-ba173bda81fb" alt="Youtube Integrated Reveal" style="max-width:100%;" width="540px"></a>
 
 - **Generate distributable .ipa files**
 
   You can distribute your patch/work to your friends very easily, with IPAPatch generated modified version of .ipa files
 
     > *Modified version of Facebook.ipa created by IPAPatch*
-    >
-    > ![](http://wx1.sinaimg.cn/large/bebedbb5ly1fiyawu5q36j20gt07fgmr.jpg)
+    > 
+    > ![687474703a2f2f7778312e73696e61696d672e636e2f6c617267652f62656265646262356c7931666979617775357133366a32306774303766676d722e6a7067](https://github.com/user-attachments/assets/622c290b-228c-4bb8-8cbd-f5728e77eb7d)
 
 ## Instructions
 
